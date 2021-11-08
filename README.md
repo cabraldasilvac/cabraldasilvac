@@ -1,6 +1,6 @@
 cabraldasilvac
-## Olá! 
-Eu sou o Wanderley Cabral estou estudano HTML, CSS NODE.js e JavaScript e PHP.
+## Olá! Eu sou o Wanderley Cabral. 
+Estou estudano HTML, CSS NODE.js e JavaScript e PHP.
 Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudos com desejo de absorver conhecimento das novas linguagens de programação e novas tecnologias. 
 
 <div align="center">
