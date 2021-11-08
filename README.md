@@ -1,5 +1,7 @@
 cabraldasilvac
-## Olá! Eu sou o wanderley Cabral 
+## Olá! 
+Eu sou o Wanderley Cabral estou estudano HTML, CSS NODE.js e JavaScript e PHP.
+Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudos com desejo de absorver conhecimento das novas linguagens de programação e novas tecnologias. 
 
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
