@@ -1,8 +1,8 @@
 cabraldasilvac
-## Olá! Eu sou o Wanderley Cabral. <br>
-
-Estou estudano HTML, CSS NODE.js e JavaScript, PHP, MySQL e C#.
-Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudos com desejo de adquirir conhecimento das novas linguagens de programação e novas tecnologias. 
+## Olá! Eu sou o Wanderley Cabral. </br>
+<h2>#2021</h2>Estou estudano HTML, CSS NODE.js e JavaScript, PHP, MySQL e C#.
+Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudos com desejo de adquirir conhecimento das novas linguagens de programação e novas tecnologias.
+<h2>#2022 Fevereiro</h2> <h4>Estou cursando Faculdade de Análise e Desenvolvimento de Sistemas na DESCOMPLICA.</h4>
 Aqui vou compartilhar alguns desafios superados e claro, seguir estudando.
 
 <div align="center">
