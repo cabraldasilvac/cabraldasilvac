@@ -11,13 +11,19 @@ Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudo
 <h4>Iniciei GRADUAÇÃO - CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na faculdade DESCOMPLICA.</h4>
 
 <hr>
+<h3>#2022 Abril</h3> 
+
+<h4>Iniciei o estudo das linguagens de programação JAVA e Python. Na faculdade a linguagem que estamos estudando no momento é o JAVA.
+Compartilhando aqui no gitHub alguns exercícios e desafios.</h4>
+
+<hr>
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<hr>
   
+<hr>  
 <h4>🚀 Skills</h4>
   <div style="display: inline_block"><br>
     <img align="center" alt="wms-JS" height="50" width="70" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">   
