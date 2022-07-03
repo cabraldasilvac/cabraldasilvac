@@ -15,8 +15,25 @@ Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudo
 
 <h4>Iniciei o estudo das linguagens de programação JAVA e Python. Na faculdade a linguagem que estamos estudando no momento é o JAVA.
 Compartilhando aqui no gitHub alguns exercícios e desafios.</h4>
+<h4>Etapa concluida.</h4>
+<h4>Certificado de  Especialista em Arquitetura e Organização de Computadores pela Faculdade Descomplica. </h4>
 
 <hr>
+
+<h3>#2022 Maio</h3> 
+
+<h4>Etapa concluida.</h4>
+<h4>Certificado de participação da Palestra " Mediação de Leitura na Educação Infantil."  </h4>
+
+<hr
+
+<hr>
+<h3>#2022 Junho</h3> 
+
+<h4>Etapa concluida. </h4>
+<h4> Certificado de especialista em Programming Basics pela Faculdade Descomplica.</h4>
+
+<hr
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
