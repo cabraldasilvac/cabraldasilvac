@@ -9,7 +9,6 @@ Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudo
 <h3>#2022 Fevereiro</h3> 
 
 <h4>Iniciei GRADUAÇÃO - CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na faculdade DESCOMPLICA.</h4>
-
 <hr>
 <h3>#2022 Abril</h3> 
 
@@ -25,15 +24,26 @@ Compartilhando aqui no gitHub alguns exercícios e desafios.</h4>
 <h4>Etapa concluida.</h4>
 <h4>Certificado de participação da Palestra " Mediação de Leitura na Educação Infantil."  </h4>
 
-<hr
-
 <hr>
 <h3>#2022 Junho</h3> 
 
 <h4>Etapa concluida. </h4>
 <h4> Certificado de especialista em Programming Basics pela Faculdade Descomplica.</h4>
 
-<hr
+<hr>
+<h3>#2022 Setembro</h3> 
+
+<h4>Etapa concluida. </h4>
+<h4> Certificado de Especialista em Object-Oriented Developer pela
+Faculdade Descomplica.</h4>
+
+<hr>
+
+<h3>#2022 Outubro</h3> 
+
+<h4>Iniciei uma nova Etapa. </h4>
+<h4>Estudando DB Developer.</h4>
+<hr>
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
