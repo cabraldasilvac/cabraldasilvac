@@ -43,6 +43,8 @@ Faculdade Descomplica.</h4>
 
 <h4>Iniciei uma nova Etapa. </h4>
 <h4>Estudando DB Developer.</h4>
+
+<h4>Etapa concluida em 28/11/2022 </h4>
 <hr>
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
