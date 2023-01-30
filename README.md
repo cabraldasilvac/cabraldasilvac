@@ -47,6 +47,16 @@ Faculdade Descomplica.</h4>
 <h4>Etapa concluida em 28/11/2022 </h4>
 
 <hr>
+<h3>#2023 Janeiro </h3> 
+
+<h4>Retorno das aulas na Faculade. </h4>
+<h4>Smart Data Strucutures.</h4>
+  <h5> Estruturas de Dados para Sistemas Inteligentes<h5>
+  <h5> Gerenciamento Avançado de Projetos<h5>
+  <h5> Metodologias de Desenvolvimento de Software<h5>
+
+<hr>
+
 
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
