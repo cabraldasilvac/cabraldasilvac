@@ -48,8 +48,9 @@ Faculdade Descomplica.</h4>
 
 <hr>
 <h3>#2023 Janeiro </h3> 
+<h3> Primeiro Trimestre </h3> 
 
-<h4>Retorno das aulas na Faculade. </h4>
+<h4>Retorno das aulas na Faculdade. </h4>
 <h4>Smart Data Strucutures.</h4>
   <h5> Estruturas de Dados para Sistemas Inteligentes<h5>
   <h5> Gerenciamento Avançado de Projetos<h5>
