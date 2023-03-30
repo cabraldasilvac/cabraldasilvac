@@ -18,7 +18,6 @@ jobs:
       - run: npm run update-readme
 
       - run: |
-          git status
           git config user.name cabraldasilvac
           git config user.email wcabraldasilvac@gmail.com
           env:
