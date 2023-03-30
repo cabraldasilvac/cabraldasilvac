@@ -1,4 +1,8 @@
+
+
+
 name: Node.js CI
+
 on:
   schedule: # horário que será executado
     - cron: "* * * * *"
@@ -9,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: action/checkout@v3
+      - name: Use Node.js
+      - uses: actions/checkout-node@v3
       - uses: actions/setup-node@v3
 
-        name: Use Node.js
         with:
           node-version: '16'
-          check-latest: true
+          # check-latest: true
           
       - run: npm install
       - run: npm run update-readme
