@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout-node@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout-node@v2
+      - uses: actions/setup-node@v1
         with:
-          node-version: '16'
+          node-version: '14'
       - run: npm install
       - run: npm run update-readme
 
