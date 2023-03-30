@@ -6,16 +6,21 @@ on:
 jobs:
   build:
     name: Jobs to update files
-
     runs-on: ubuntu-latest
 
     steps:
       - uses: action/checkout@v3
-      - name: Use Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
+
+        name: Use Node.js
         with:
-          node-version: v16.x
-        - run: npm install
-        - run: npm run update-readme
+          node-version: "v16.x"
+      - run: npm install
+      - run: npm run update-readme
 
-
+      - run: |
+          git config user.name cabraldasilvac
+          git config user.email cabraldasilvac@icloud.com
+          git add README.md
+          git commit -m "[bot] Update README with latest info"
+          git push origin main

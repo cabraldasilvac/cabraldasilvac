@@ -1,0 +1,24 @@
+{
+  "name": "cabraldasilvac",
+  "version": "1.0.0",
+  "description": "cabraldasilvac README gitHub profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabraldasilvac/cabraldasilvac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabraldasilvac/cabraldasilvac/issues"
+  },
+  "homepage": "https://github.com/cabraldasilvac/cabraldasilvac#readme",
+  "dependencies": {
+    "rss-parser": "3.12.0"
+  }
+}
