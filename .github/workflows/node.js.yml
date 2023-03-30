@@ -19,9 +19,10 @@ jobs:
 
         with:
           node-version: '16'
-          # check-latest: true
-          
+          check-latest: true
       - run: npm install
+      - run: npm ci
+      - run: npm test
       - run: npm run update-readme
 
       - run: |
