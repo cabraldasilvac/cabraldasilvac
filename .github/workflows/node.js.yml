@@ -19,6 +19,8 @@ jobs:
 
       - run: |
           git status
+          git config user.name cabraldasilvac
+          git config user.email wcabraldasilvac@gmail.com
           git add README.md
           git commit -m "[bot] Update README with latest info"
           git push origin main
