@@ -76,6 +76,12 @@ Faculdade Descomplica.</h4>
     <img  align="center" alt="wms-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img  align="center" alt="wms-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
+
+<hr>
+<h5> Articles Midudev</h5
+  <div>
+  - latest article: [Top 5 preguntas de JavaScript en Stack Overflow](https://midu.dev/top-5-preguntas-javascript-stack-overflow/)
+  </div>
   
 <hr>
  <h3>Social Media</h3>
@@ -88,4 +94,3 @@ Faculdade Descomplica.</h4>
  
  ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
  
-- latest article: [Top 5 preguntas de JavaScript en Stack Overflow](https://midu.dev/top-5-preguntas-javascript-stack-overflow/)
