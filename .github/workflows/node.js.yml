@@ -2,7 +2,7 @@ name: Node.js CI
 
 on:
   schedule: # horário que será executado
-    - cron: "* * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   build:
