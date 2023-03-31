@@ -2,7 +2,7 @@ name: Node.js CI
 
 on:
   schedule: # horário que será executado - Todos os dias 4 horas manhã
-    - cron: "0 */15 * * *"
+    - cron: "* * * * *"
 
 jobs:
   build:
@@ -21,6 +21,6 @@ jobs:
           git config user.name cabraldasilvac
           git config user.email wcabraldasilvac@gmail.com
           git add README.md
-          git commit -m "[bot] Update README with latest info"
+          git commit -m "[bot] Update README.md with latest info"
           git push origin main
        
