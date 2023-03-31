@@ -78,12 +78,6 @@ Faculdade Descomplica.</h4>
   </div>
 
 <hr>
-<h5> Articles Midudev</h5
-  <div>
-  - latest article: [Top 5 preguntas de JavaScript en Stack Overflow](https://midu.dev/top-5-preguntas-javascript-stack-overflow/)
-  </div>
-  
-<hr>
  <h3>Social Media</h3>
 <div> 
   <a href="https://instagram.com/pr.wanderley_cabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -94,3 +88,8 @@ Faculdade Descomplica.</h4>
  
  ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
  
+ 
+ <hr>
+ <h3> Artigos de Midudev</h3>
+ 
+   - latest article: [Top 5 preguntas de JavaScript en Stack Overflow](https://midu.dev/top-5-preguntas-javascript-stack-overflow/)
