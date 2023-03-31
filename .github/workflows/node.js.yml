@@ -1,12 +1,12 @@
 name: Node.js CI
 
 on:
-  schedule: # horário que será executado - Todos os dias 4 horas manhã
-    - cron: "* * * * *"
+  schedule: # horário que será executado
+    - cron: "*/15 * * * *"
 
 jobs:
   build:
-    name: Jobs to update files.
+    name: Jobs to update files
     runs-on: ubuntu-latest
 
     steps:
