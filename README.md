@@ -1,16 +1,16 @@
+### Olá! Eu sou o Wanderley Cabral 🖐️
 
-### Olá! Eu sou o Wanderley Cabral 🖐️ 
 <br/>
 Aqui vou compartilhar alguns desafios superados e claro, seguir estudando.
 <h3>#2021</h3>Estou estudando HTML, CSS NODE.js, JavaScript, PHP, MySQL e C#.
 Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudos com desejo de adquirir conhecimento das novas linguagens de programação e novas tecnologias.
 <hr>
 
-<h3>#2022 Fevereiro</h3> 
+<h3>#2022 Fevereiro</h3>
 
 <h4>Iniciei GRADUAÇÃO - CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na faculdade DESCOMPLICA.</h4>
 <hr>
-<h3>#2022 Abril</h3> 
+<h3>#2022 Abril</h3>
 
 <h4>Iniciei o estudo das linguagens de programação JAVA e Python. Na faculdade a linguagem que estamos estudando no momento é o JAVA.
 Compartilhando aqui no gitHub alguns exercícios e desafios.</h4>
@@ -19,19 +19,19 @@ Compartilhando aqui no gitHub alguns exercícios e desafios.</h4>
 
 <hr>
 
-<h3>#2022 Maio</h3> 
+<h3>#2022 Maio</h3>
 
 <h4>Etapa concluída.</h4>
 <h4>Certificado de participação da Palestra " Mediação de Leitura na Educação Infantil."  </h4>
 
 <hr>
-<h3>#2022 Junho</h3> 
+<h3>#2022 Junho</h3>
 
 <h4>Etapa concluída. </h4>
 <h4> Certificado de especialista em Programming Basics pela Faculdade Descomplica.</h4>
 
 <hr>
-<h3>#2022 Setembro</h3> 
+<h3>#2022 Setembro</h3>
 
 <h4>Etapa concluída. </h4>
 <h4> Certificado de Especialista em Object-Oriented Developer pela
@@ -39,7 +39,7 @@ Faculdade Descomplica.</h4>
 
 <hr>
 
-<h3>#2022 Outubro</h3> 
+<h3>#2022 Outubro</h3>
 
 <h4>Iniciei uma nova Etapa. </h4>
 <h4>Estudando DB Developer.</h4>
@@ -48,7 +48,7 @@ Faculdade Descomplica.</h4>
 
 <hr>
 <h3>#2023 Janeiro </h3> 
-<h3> Primeiro Trimestre </h3> 
+<h3> Primeiro Trimestre </h3>
 
 <h4>Retorno das aulas na Faculdade. </h4>
 <h4>Smart Data Structures.</h4>
@@ -57,7 +57,6 @@ Faculdade Descomplica.</h4>
   <h5> Metodologias de Desenvolvimento de Software<h5>
 
 <hr>
-
 
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
@@ -87,9 +86,3 @@ Faculdade Descomplica.</h4>
 </div>
  
  ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
- 
- 
- <hr>
- <h3> Artigos de Midudev</h3>
- 
-   - latest article: [Top 5 preguntas de JavaScript en Stack Overflow](https://midu.dev/top-5-preguntas-javascript-stack-overflow/)
