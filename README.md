@@ -57,6 +57,17 @@ Faculdade Descomplica.</h4>
   <h5> Metodologias de Desenvolvimento de Software<h5>
 
 <hr>
+    
+<hr>
+<h3>#2023 Abril </h3> 
+<h3> Segundo  Trimestre </h3>
+
+<h4>Disciplinas deste trimenstre </h4>
+<h4>Mobile Developer.</h4>
+  <h5> Desenvolvimento Mobile<h5>
+  <h5> Prática Integradora Desenvolvimento de Apps<h5>
+
+<hr>
 
 <div align="center">
   <a href="https://github.com/cabraldasilvac">
