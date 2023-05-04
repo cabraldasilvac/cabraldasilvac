@@ -57,8 +57,10 @@ Faculdade Descomplica.</h4>
   <h5> Metodologias de Desenvolvimento de Software<h5>
 
 <hr>
-    
+<h4> Etapa concluida em Abril. Aprovado! <h4>
 <hr>
+
+  
 <h3>#2023 Abril </h3> 
 <h3> Segundo  Trimestre </h3>
 
