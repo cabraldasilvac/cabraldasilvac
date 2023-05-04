@@ -55,8 +55,7 @@ Faculdade Descomplica.</h4>
   <h5> Estruturas de Dados para Sistemas Inteligentes<h5>
   <h5> Gerenciamento Avançado de Projetos<h5>
   <h5> Metodologias de Desenvolvimento de Software<h5>
-
-<hr>
+    
 <h4> Etapa concluida em Abril. Aprovado! <h4>
 <hr>
 
