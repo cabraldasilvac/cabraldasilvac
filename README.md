@@ -67,7 +67,16 @@ Faculdade Descomplica.</h4>
 <h4>Mobile Developer.</h4>
   <h5> Desenvolvimento Mobile<h5>
   <h5> Prática Integradora Desenvolvimento de Apps<h5>
+<hr>
+  
+<h3>#2023 Julho </h3> 
+<h3> Terceiro  Trimestre </h3>
 
+<h4>Disciplinas deste trimenstre </h4>
+<h4>BI e Big Data</h4>
+  <h5> Analytics para Estratégia de Negócios<h5>
+  <h5> Arquitetura de BI e Big Data<h5>
+  <h5> Desenvolvimento de algoritmos de Inteligência Artificial<h5>
 <hr>
 
 <div align="center">
