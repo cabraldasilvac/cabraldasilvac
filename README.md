@@ -1,109 +1,62 @@
-### Olá! Eu sou o Wanderley Cabral 🖐️
+<img align="right" height="400em"  src="https://raw.githubusercontent.com/gist/cabraldasilvac/c153c83b1813346081853d01da7b0feb/raw/89a48e3120f29b4754bec7d84e54cf186a0607a5/GitHubCard.svg"/>
 
-<br/>
-Aqui vou compartilhar alguns desafios superados e claro, seguir estudando.
-<h3>#2021</h3>Estou estudando HTML, CSS NODE.js, JavaScript, PHP, MySQL e C#.
-Já tive contato com a INFORMÁTICA há muito tempo e agora, retornei aos estudos com desejo de adquirir conhecimento das novas linguagens de programação e novas tecnologias.
-<hr>
+<h1 align="left">Olá, Eu sou o Wanderley Cabral</h1>
 
-<h3>#2022 Fevereiro</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /> </p>
 
-<h4>Iniciei GRADUAÇÃO - CST EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS na faculdade DESCOMPLICA.</h4>
-<hr>
-<h3>#2022 Abril</h3>
+-   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
-<h4>Iniciei o estudo das linguagens de programação JAVA e Python. Na faculdade a linguagem que estamos estudando no momento é o JAVA.
-Compartilhando aqui no gitHub alguns exercícios e desafios.</h4>
-<h4>Etapa concluída.</h4>
-<h4>Certificado de  Especialista em Arquitetura e Organização de Computadores pela Faculdade Descomplica. </h4>
+-   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
 
-<hr>
+-   👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-omega-ten-38.vercel.app/)
 
-<h3>#2022 Maio</h3>
+<br>
 
-<h4>Etapa concluída.</h4>
-<h4>Certificado de participação da Palestra " Mediação de Leitura na Educação Infantil."  </h4>
+## 🛠 &nbsp;Tech Stack
 
-<hr>
-<h3>#2022 Junho</h3>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
-<h4>Etapa concluída. </h4>
-<h4> Certificado de especialista em Programming Basics pela Faculdade Descomplica.</h4>
+<br>
 
-<hr>
-<h3>#2022 Setembro</h3>
+## ⚙️ &nbsp;GitHub Analytics
 
-<h4>Etapa concluída. </h4>
-<h4> Certificado de Especialista em Object-Oriented Developer pela
-Faculdade Descomplica.</h4>
-
-<hr>
-
-<h3>#2022 Outubro</h3>
-
-<h4>Iniciei uma nova Etapa. </h4>
-<h4>Estudando DB Developer.</h4>
-
-<h4>Etapa concluída em 28/11/2022 </h4>
-
-<hr>
-<h3>#2023 Janeiro </h3> 
-<h3> Primeiro Trimestre </h3>
-
-<h4>Retorno das aulas na Faculdade. </h4>
-<h4>Smart Data Structures.</h4>
-  <h5> Estruturas de Dados para Sistemas Inteligentes<h5>
-  <h5> Gerenciamento Avançado de Projetos<h5>
-  <h5> Metodologias de Desenvolvimento de Software<h5>
-    
-<h4> Etapa concluida em Abril. Aprovado! <h4>
-<hr>
-
-  
-<h3>#2023 Abril </h3> 
-<h3> Segundo  Trimestre </h3>
-
-<h4>Disciplinas deste trimenstre </h4>
-<h4>Mobile Developer.</h4>
-  <h5> Desenvolvimento Mobile<h5>
-  <h5> Prática Integradora Desenvolvimento de Apps<h5>
-<hr>
-  
-<h3>#2023 Julho </h3> 
-<h3> Terceiro  Trimestre </h3>
-
-<h4>Disciplinas deste trimenstre </h4>
-<h4>BI e Big Data</h4>
-  <h5> Analytics para Estratégia de Negócios<h5>
-  <h5> Arquitetura de BI e Big Data<h5>
-  <h5> Desenvolvimento de algoritmos de Inteligência Artificial<h5>
-<hr>
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/cabraldasilvac">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="200em" width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="530em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
-  
-<hr>  
-<h3>🚀 Skills</h3>
-  <div style="display: inline_block"><br>  
-    <img  align="center" alt="wms-HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img  align="center" alt="wms-CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img  align="center" alt="wms-JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img  align="center" alt="wms-NodeJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img  align="center" alt="wms-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img  align="center" alt="wms-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img  align="center" alt="wms-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </div>
+<br>
 
-<hr>
- <h3>Social Media</h3>
-<div> 
-  <a href="https://instagram.com/pr.wanderley_cabral" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/wanderleycabral/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white%22%20target=%22_blank"></a> 
-  <a href = "mailto:wcabraldasilvac@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/cabraldasilvac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 📫 Contact Social Media
+
+<div align="center" height="15px">
+<p align="left" style="background:#1A1B28">
+<a href="https://codepen.io/cabraldasilvac" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://twitter.com/wanderleycabral" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-wanderleycabral-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/cabraldasilvac" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/pr.wanderley_cabral" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
 </div>
- 
- ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
+<hr>
+
+![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
