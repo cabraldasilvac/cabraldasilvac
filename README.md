@@ -8,7 +8,7 @@
 
 -   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
 
--   👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-omega-ten-38.vercel.app/)
+-   👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
 
 <br>
 
