@@ -34,8 +34,8 @@
   
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
   <div>
-      <img height="200em" width="430em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img align="right" height="200em" width="430em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"/>
+      <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img align="right" height="200em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"/>
   </div>
 </div>
 
