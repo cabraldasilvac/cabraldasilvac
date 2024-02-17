@@ -45,21 +45,20 @@
 <div class="analytics">
     <h2>⚙️ &nbsp;GitHub Analytics</h2>
     <br />
-    <div>
+    <div >
         <img
             height="200em"
-            width="50%"
             src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
         />
+        </div>
+        <div  align="right">
         <img
-            align="right"
             height="200em"
-            width="50%"
             src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"
         />
     </div>
 </div>
-
+<br>
 <div class="socialmedia" align="center">
     <div style="display: inline_block">
         <br />
