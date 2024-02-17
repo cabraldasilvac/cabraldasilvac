@@ -51,18 +51,18 @@
             src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
         />
         </div>
-        <div  align="right">
-        <img
+        <div >
+        <img align="right"
             height="200em"
             src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"
         />
     </div>
 </div>
 <br>
-<div class="socialmedia" align="center">
+<div class="socialmedia">
+<h2>📫 Social Media</h2>
     <div style="display: inline_block">
         <br />
-        <h2>📫 Social Media</h2>
         <div align="center" height="30px">
             <p align="left" style="background: #1a1b28">
                 <a href="https://codepen.io/cabraldasilvac" target="_blank">
