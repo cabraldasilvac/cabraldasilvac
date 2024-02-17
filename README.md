@@ -6,16 +6,12 @@
 
 <h1 align="left">Olá, Eu sou o Wanderley Cabral</h1>
 
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow"
-        alt="Profile views"
-    />
-</p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" />
+</p><br>
 
--   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica. - 💬 Pergunte-me
-    sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java** - 👨‍💻 Saiba mais sobre a minha jornada
-    na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
+-   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
+-   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java** - 👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
+    <br />
 
 <div style="display: inline_block">
     <br />
@@ -31,8 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio
-  Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -59,7 +54,7 @@
     </div>
 </div>
 <br>
-<div class="socialmedia">
+< class="socialmedia">
 <h2>📫 Social Media</h2>
     <div style="display: inline_block">
         <br />
@@ -97,8 +92,6 @@
         </div>
     </div>
     <hr />
-    <div>
-        ![Snake
-        animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
     </div>
-</div>
+    
+    ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
