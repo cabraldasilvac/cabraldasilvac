@@ -10,9 +10,8 @@
 
 -   👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
 
-<br>
-
-## 🛠 &nbsp;Tech Stack
+<div class="techstack">
+<h2> 🛠 &nbsp;Tech Stack </h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -28,35 +27,41 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="left">
-  <a href="https://github.com/cabraldasilvac">
-  <img height="200em" width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="530em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
 <br>
 
-## 📫 Contact Social Media
+<div class=" analytics">
+  
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
+  <div>
+      <img height="200em" width="430em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img align="right" height="200em" width="430em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"/>
+  </div>
+</div>
 
-<div align="center" height="15px">
-<p align="left" style="background:#1A1B28">
-<a href="https://codepen.io/cabraldasilvac" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/wanderleycabral" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-wanderleycabral-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/cabraldasilvac" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/pr.wanderley_cabral" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<div class="socialmedia">
+  <h2>📫 Social Media</h2>
+  <div align="center" height="30px">
+    <p align="left" style="background:#1A1B28">
+      <a href="https://codepen.io/cabraldasilvac" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=codepen" alt="codepen"/>
+      </a>
+      <a href="https://twitter.com/wanderleycabral" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-wanderleycabral-05122A?style=flat&logo=twitter" alt="twitter"/>
+      </a>
+      <a href="https://linkedin.com/in/cabraldasilvac" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+      </a>
+      <a href="https://instagram.com/pr.wanderley_cabral" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=instagram" alt="instagram"/>
+      </a>
+    </p>
+  </div>
 </div>
 <hr>
 
+<div class="snake">
+
 ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
+
+</div>
