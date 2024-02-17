@@ -10,8 +10,8 @@
 
 -   👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
 
-<div class="techstack">
-<h2> 🛠 &nbsp;Tech Stack </h2>
+<div style="display: inline_block"><br>
+<div class="techstack"><br><h2> 🛠 &nbsp;Tech Stack </h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -27,19 +27,19 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
+  </div>
 </div>
-<br>
 
-<div class=" analytics">
-  
-<h2>⚙️ &nbsp;GitHub Analytics</h2>
+<div class="analytics">
+<h2>⚙️ &nbsp;GitHub Analytics</h2><br>
   <div>
       <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       <img align="right" height="200em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"/>
   </div>
 </div>
 
-<div class="socialmedia">
+<div class="socialmedia" align="center">
+  <div style="display: inline_block"><br>
   <h2>📫 Social Media</h2>
   <div align="center" height="30px">
     <p align="left" style="background:#1A1B28">
@@ -60,7 +60,7 @@
 </div>
 <hr>
 
-<div class="snake">
+<div>
 
 ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
 
