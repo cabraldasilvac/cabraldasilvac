@@ -9,11 +9,10 @@
 
 -   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.<br/>
 -   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java** - 👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
-    <br>
 
 <div style="display: inline_block">
     <br>
-    <div class="techstack"><br>
+    <div class="techstack">
         <h2>🛠 &nbsp;Tech Stack</h2>
 
 ##
@@ -42,7 +41,7 @@
             height="180em"
             src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
         /> 
-        <img align="right"
+        <img
             height="180em"
             src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"
         />
