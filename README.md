@@ -1,21 +1,20 @@
 <img
     align="right"
-    height="400em"
+    height="500em"
     src="https://raw.githubusercontent.com/gist/cabraldasilvac/c153c83b1813346081853d01da7b0feb/raw/89a48e3120f29b4754bec7d84e54cf186a0607a5/GitHubCard.svg"
 />
 
 <h1 align="left">Olá, Eu sou o Wanderley Cabral</h1>
-        <p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /> Obrigado pela visita!</p><br>
+        <p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /></p><br>
 
 -   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.<br/>
--   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java** - 👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
-
+-   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
+-   👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
+<hr />
 <div style="display: inline_block">
-    <br>
     <div class="techstack">
         <h2>🛠 &nbsp;Tech Stack</h2>
 
-##
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -33,26 +32,19 @@
 
 </div>
 </div>
-
+<hr />
 <div class="analytics">
 <a href="https://github.com/cabraldasilvac">
     <h2>⚙️ &nbsp;GitHub Analytics</h2>
-        <img
-            height="180em"
-            src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-        /> 
-        <img
-            height="180em"
-            src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"
-        />
+        <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
+        <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight" />
 </div>
-
-##
+<hr />
 
 <div class="socialmedia">
-<h2>📫 Social Media</h2>
-    <div style="display: inline_block"><br>
-        <div align="center" height="30px">
+<h2>📫 Você também me encontra em:</h2>
+    <div style="display: inline_block">
+        <div align="center" height="60em">
             <p align="left" style="background: #1a1b28">
                 <a href="https://codepen.io/cabraldasilvac" target="_blank">
                     <img
@@ -85,7 +77,6 @@
             </p>
         </div>
     </div>
-    <hr />
 </div>
 
 ##
