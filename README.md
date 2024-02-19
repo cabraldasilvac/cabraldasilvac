@@ -5,19 +5,18 @@
 />
 
 <h1 align="left">Olá, Eu sou o Wanderley Cabral</h1>
+        <p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /> Obrigado pela visita!</p><br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" />
-</p><br>
-
--   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
+-   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.<br/>
 -   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java** - 👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
-    <br />
+    <br>
 
 <div style="display: inline_block">
-    <br />
-    <div class="techstack">
-        <br />
+    <br>
+    <div class="techstack"><br>
         <h2>🛠 &nbsp;Tech Stack</h2>
+
+##
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -33,31 +32,27 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 
-    </div>
-
+</div>
 </div>
 
 <div class="analytics">
+<a href="https://github.com/cabraldasilvac">
     <h2>⚙️ &nbsp;GitHub Analytics</h2>
-    <br />
-    <div >
         <img
-            height="200em"
+            height="180em"
             src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-        />
-        </div>
-        <div >
+        /> 
         <img align="right"
-            height="200em"
+            height="180em"
             src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight"
         />
-    </div>
 </div>
-<br>
-< class="socialmedia">
+
+##
+
+<div class="socialmedia">
 <h2>📫 Social Media</h2>
-    <div style="display: inline_block">
-        <br />
+    <div style="display: inline_block"><br>
         <div align="center" height="30px">
             <p align="left" style="background: #1a1b28">
                 <a href="https://codepen.io/cabraldasilvac" target="_blank">
@@ -92,6 +87,8 @@
         </div>
     </div>
     <hr />
-    </div>
-    
-    ![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+##
+
+![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
