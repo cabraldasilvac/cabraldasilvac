@@ -21,11 +21,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+          
+      - name: Snake Animation
+        uses: Platane/snk@master
 
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-          pip install Platane/snk
+          # pip install Platane/snk
 
       - name: Generate github-contribution-grid-snake.svg
         run: |
