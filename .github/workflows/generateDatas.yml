@@ -21,18 +21,22 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-          
-      - name: Snake Animation
-        uses: Platane/snk@master
-
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-          # pip install Platane/snk
-
-      - name: Generate github-contribution-grid-snake.svg
-        run: |
-          snk --user cabraldasilvac --output dist/github-contribution-grid-snake.svg
+          
+      - name: Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: cabraldasilvac
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          
 
       - name: Push changes to output branch
         run: |
