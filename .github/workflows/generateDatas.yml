@@ -1,39 +1,41 @@
 name: Generate Datas
 
 on:
-    schedule: # Runs at 04:00, only on Tuesday and Friday. at 4 am
+  schedule: # Runs at 04:00, only on Tuesday and Friday. at 4 am
     # - cron: '0 4 * * 2,5'
-        - cron: "0 */12 * * *"   # run automatically every 12 hours
-    workflow_dispatch:
+    - cron: "0 */12 * * *"   # run automatically every 12 hours
+  workflow_dispatch:
 
 jobs:
-    build:
-        name: Jobs to update datas
-        runs-on: ubuntu-latest
-        steps:
-            # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-            - uses: actions/checkout@v2
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
             
-            # Snake Animation
-            - uses: Platane/snk@master
-              id: snake-gif
-              with:
-                github_user_name: cabraldasilvac
-                svg_out_path: dist/github-contribution-grid-snake.svg
-                gif_out_path: dist/github-contribution-grid-snake.gif
-                run: git status
+      # Snake Animation
+      - name: Snake Animation
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: cabraldasilvac
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+      - run: git status
             
-            # For updates
-            - name: Push changes
-            - uses: ad-m/github-push-action@master
-              with:
-                github_token: ${{ secrets.GITHUB_TOKEN }}
-                branch: master
-                force: true
+      # For updates
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
             
-            - uses: crazy-max/ghaction-github-pages@v4
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
