@@ -43,44 +43,10 @@
 </div>
 <hr />
 
-<div class="socialmedia">
-<h2>📫 Você também me encontra em:</h2>
-    <div style="display: inline_block">
-        <div align="center" height="60em">
-            <p align="left" style="background: #1a1b28">
-                <a href="https://codepen.io/cabraldasilvac" target="_blank">
-                    <img
-                        align="center"
-                        src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=codepen"
-                        alt="codepen"
-                    />
-                </a>
-                <a href="https://twitter.com/wanderleycabral" target="_blank">
-                    <img
-                        align="center"
-                        src="https://img.shields.io/badge/-wanderleycabral-05122A?style=flat&logo=twitter"
-                        alt="twitter"
-                    />
-                </a>
-                <a href="https://linkedin.com/in/cabraldasilvac" target="_blank">
-                    <img
-                        align="center"
-                        src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=linkedin"
-                        alt="linkedin"
-                    />
-                </a>
-                <a href="https://instagram.com/pr.wanderley_cabral" target="_blank">
-                    <img
-                        align="center"
-                        src="https://img.shields.io/badge/-cabraldasilvac-05122A?style=flat&logo=instagram"
-                        alt="instagram"
-                    />
-                </a>
-            </p>
-        </div>
-    </div>
+
+
 </div>
 
 ##
 
-![Snake animation](https://github.com/cabraldasilvac/cabraldasilvac/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WMS66/WMS66/blob/output/github-contribution-grid-snake.svg)
