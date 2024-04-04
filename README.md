@@ -38,8 +38,8 @@
 <hr />
 <div class="projects" >
     <h2 align="left" > Conheça alguns dos projetos que desenvolvi para fixar aprendizado!</h2>
-    
-   ![project](project_image.png)
+
+   <img align="left" src="project_image.png" alt="drawing" style="width:240px;"/>
    <br>
     <div>
         <ul>
