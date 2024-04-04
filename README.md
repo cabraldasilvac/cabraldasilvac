@@ -36,6 +36,26 @@
 </div>
 </div>
 <hr />
+<div class="projects" >
+    <h2 align="left" > Conheça alguns dos projetos que desenvolvi para fixar aprendizado!</h2>
+    
+   ![project](project_image.png)
+   <br>
+    <div>
+        <ul>
+            <li> 1 - Calculadora ✅ - [Calculadora Java](https://github.com/cabraldasilvac/calculadora-java)</li>
+            <li>2 - Blog ✅ - [fetch-api](https://github.com/WMS66/fetch-api)</li>
+            <li>3 - Sistema de Cadastro de Usuário ✅ - [Cadastro de DEVs](https://github.com/WMS66/formulario_cadastro_devs)</li>
+            <li>4 - Lista de Tarefas - CRUD ✅ - [Lista de Tarefas](https://github.com/cabraldasilvac/lista-de-tarefas)</li>
+            <li>5 - Clonar um site ou um App ✅ - [Hero_Header](https://github.com/cabraldasilvac/Hero-Header-Frontend)</li>
+            <li>6 - Página de Catálogo ✅ - [catalog-of-products-and-services](https://github.com/WMS66/catalog-of-products-and-services)</li>
+            <li>7 - Criar um jogo ✅ - [Jogo da velha](https://github.com/WMS66/jogodavelha)</li>
+            <li>8 - Calendário ✅ - [Calendário](https://github.com/WMS66/calendario)</li>
+        </ul>
+    </div>
+</div>
+<hr />
+
 <div class="analytics">
 <a href="https://github.com/cabraldasilvac">
     <h2>⚙️ &nbsp;GitHub Analytics</h2>
