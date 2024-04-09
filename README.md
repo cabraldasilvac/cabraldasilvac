@@ -36,6 +36,28 @@
 </div>
 </div>
 <hr />
+<div style="display: inline_block>
+
+<div class="skills">
+
+<h2>Skills acquired in College</h2>
+
+![Static Badge](https://img.shields.io/badge/Frontend-8b2ae2)
+![Static Badge](https://img.shields.io/badge/Backend-8be2a8)
+![Static Badge](https://img.shields.io/badge/UX_Experiencia_do_Usuário-373d5a)
+![Static Badge](https://img.shields.io/badge/Estrutura_de_Dados-e2d38b)
+![Static Badge](https://img.shields.io/badge/Modelagem_de_Banco_de_Dados-8b2ae2)
+![Static Badge](https://img.shields.io/badge/Cloud_Computing-8be2a8)
+![Static Badge](https://img.shields.io/badge/Devops-373d5a)&nbsp;
+
+![Static Badge](https://img.shields.io/badge/Lógica_de_Programação-e2d38b)
+![Static Badge](https://img.shields.io/badge/Design_de_Software-e28bc6)
+![Static Badge](https://img.shields.io/badge/Desenvolvimento_Mobile-298dee)
+
+</div>
+</div>
+
+<hr />
 <div class="projects" >
     <h2 align="left" > Conheça alguns dos projetos que desenvolvi para fixar aprendizado!</h2>
 
@@ -63,11 +85,5 @@
         <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight" />
 </div>
 <hr />
-
-
-
 </div>
 
-##
-
-![Snake animation](https://github.com/WMS66/WMS66/blob/output/github-contribution-grid-snake.svg)
