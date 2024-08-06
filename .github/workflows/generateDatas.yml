@@ -3,7 +3,7 @@ name: Generate Datas
 on:
   schedule: # Runs at 04:00, only on Tuesday and Friday. at 4 am
     # - cron: '0 4 * * 2,5'
-    - cron: "30 10 * * 2,5"   # Runs at 10h30, only on Tuesday and Friday. 
+    - cron: "30 12 * * 2,5"   # Runs at 12h30, only on Tuesday and Friday. 
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
             
       # Snake Animation
       - name: Snake Animation
