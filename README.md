@@ -8,9 +8,9 @@
 <h1 align="left">Olá, Eu sou o Wanderley Cabral</h1>
         <p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /></p><br>
 
--   🔥 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.<br/>
+-   🔥 Graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em Desenvolvimento Full Stack na Faculdade Descomplica.<br/>
 -   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
--   👨‍💻 Saiba mais sobre a minha jornada na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
+-   👨‍💻 Saiba mais sobre a minha jornada de estudos na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
 <hr />
 <div style="display: inline_block">
     <div class="techstack">
