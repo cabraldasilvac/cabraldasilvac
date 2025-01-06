@@ -5,14 +5,18 @@
     src="https://raw.githubusercontent.com/gist/cabraldasilvac/c153c83b1813346081853d01da7b0feb/raw/89a48e3120f29b4754bec7d84e54cf186a0607a5/GitHubCard.svg"
 />
 
-<h1 align="left">Olá, Eu sou o Wanderley Cabral</h1>
-        <p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /></p><br>
+<h1 align="left"> 
+    Olá, Eu sou o Wanderley Cabral
+</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /></p><br>
 
 -   ✅ Graduado em Análise e Desenvolvimento de Sistemas
 -   🔥 Pós-Graduando em Desenvolvimento Full Stack na Faculdade Descomplica.<br/>
 -   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
 -   👨‍💻 Saiba mais sobre a minha jornada de estudos na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
+-   
 <hr />
+
 <div style="display: inline_block">
     <div class="techstack">
         <h2>🛠 &nbsp;Tech Stack</h2>
@@ -81,7 +85,7 @@
 
 <div class="analytics">
 <a href="https://github.com/cabraldasilvac">
-    <h2>⚙️ &nbsp;GitHub Analytics</h2>
+    <h2>⚙️ &nbsp;GitHub Stats</h2>
         <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
         <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight" />
 </div>
@@ -90,8 +94,14 @@
 
 ###
 
-<div>
+<div align="left">
     <img src="https://raw.githubusercontent.com/cabraldasilvac/cabraldasilvac/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cabraldasilvac&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
