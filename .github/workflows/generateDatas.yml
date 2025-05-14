@@ -1,37 +1,33 @@
-name: Generate Datas
+name: UpdateContributionSnake
 
 on:
-  schedule: # Runs at 04:00, only on Tuesday and Friday. at 4 am
-    # - cron: '0 4 * * 2,5'
-    - cron: "30 12 * * 2,5"   # Runs at 12h30, only on Tuesday and Friday. 
+  schedule: # Run at 9 am (BRT) on the 1st of every month (12 PM UTC)
+    - cron: '0 16 1 * *'
+
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate_and_deploy_snake:
+    name: Generate and Deploy Snake Animation
     runs-on: ubuntu-latest
     steps:
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v4
-            
-      # Snake Animation
-      - name: Snake Animation
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: cabraldasilvac
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
-      - run: git status
-            
-      # For updates
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-            
+          branch: main 
+          
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
