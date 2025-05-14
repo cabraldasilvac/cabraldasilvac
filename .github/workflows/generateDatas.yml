@@ -2,7 +2,7 @@ name: UpdateContributionSnake
 
 on:
   schedule: # Run at 9 am (BRT) on the 1st of every month (12 PM UTC)
-    - cron: '0 16 1 * *'
+    - cron: '0 12 1 * *'
 
   workflow_dispatch:
 
