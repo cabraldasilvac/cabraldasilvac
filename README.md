@@ -1,8 +1,8 @@
 ![GitHub_image](GitHub_image.png)
 <img
     align="right"
-    height="500em"
-    src="https://raw.githubusercontent.com/gist/cabraldasilvac/c153c83b1813346081853d01da7b0feb/raw/89a48e3120f29b4754bec7d84e54cf186a0607a5/GitHubCard.svg"
+    height="500em" 
+    src="https://raw.githubusercontent.com/gist/cabraldasilvac/a075744cf63286024ed6aa359c77fbc4/raw/fc63027629d65aeb72b4351c60e18e4fbb550e74/gitHub-card.svg"
 />
 
 <h1 align="left"> 
