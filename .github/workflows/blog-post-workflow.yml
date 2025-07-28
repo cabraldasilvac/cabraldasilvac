@@ -15,13 +15,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.4
         with:
           feed_list: "https://medium.com/feed/@wcabraldasilvac"
           date_format: "DD MMM, YYYY"
           max_post_count: 2 
           readme_path: "README.md"
-          template: "<tr><td>- [$title]</td><td>($url)</td> <td>- $date </td></tr>"
+          template: "- [$title]($url) - $date"
+          #template: "<tr><td>- [$title]</td><td>($url)</td> <td>- $date </td></tr>"
   
           commit_message: "Atualizar os dois ultimos posts do Medium"
           committer_email: "actions@github.com"
