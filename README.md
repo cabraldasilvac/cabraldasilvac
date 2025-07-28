@@ -103,10 +103,9 @@
 </div>
 
 ###
+## Últimos Posts do Blog
 
-# Olá, sou [Wanderley]!
-
-## Últimos Posts do Blog (ou um título de sua preferência)
+ <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
 ###
 
