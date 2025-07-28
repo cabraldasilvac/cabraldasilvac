@@ -21,8 +21,7 @@ jobs:
           date_format: "DD MMM, YYYY"
           max_post_count: 2 
           readme_path: "README.md"
-          template: "- [$title]($url) - $date"
-          #template: "<tr><td>- [$title]</td><td>($url)</td> <td>- $date </td></tr>"
+          template: "- [$title]($url) - " 
   
           commit_message: "Atualizar os dois ultimos posts do Medium"
           committer_email: "actions@github.com"
