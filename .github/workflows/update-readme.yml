@@ -1,0 +1,31 @@
+name: Update README with Latest Medium Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa todos os dias à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest blog posts
+        run: node .github/scripts/fetch-medium-posts.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualiza a lista de posts do blog" && git push)
