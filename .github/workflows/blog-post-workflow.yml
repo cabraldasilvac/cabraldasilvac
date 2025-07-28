@@ -23,5 +23,6 @@ jobs:
           readme_path: "README.md"
           template: "- [$title]($url) - $date"
           commit_message: "Atualizar últimos posts do Medium"
-          committer_name: "GitHub Actions Bot"
           committer_email: "actions@github.com"
+          committer_username: "GitHub Actions Bot"
+          custom_tag: "MEDIUM-POST"
