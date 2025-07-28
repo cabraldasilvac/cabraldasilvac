@@ -1,15 +1,23 @@
 {
-  "name": "workflows",
+  "name": "cabraldasilvac",
   "version": "1.0.0",
-  "description": "",
+  "description": "![GitHub_image](GitHub_image.png) <img     align=\"right\"     height=\"500em\"      src=\"https://raw.githubusercontent.com/gist/cabraldasilvac/a075744cf63286024ed6aa359c77fbc4/raw/fc63027629d65aeb72b4351c60e18e4fbb550e74/gitHub-card.svg\" />",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabraldasilvac/cabraldasilvac.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cabraldasilvac/cabraldasilvac/issues"
+  },
+  "homepage": "https://github.com/cabraldasilvac/cabraldasilvac#readme",
   "devDependencies": {
     "rss-parser": "^3.13.0"
   }
