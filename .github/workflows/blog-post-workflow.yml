@@ -26,5 +26,5 @@ jobs:
           commit_message: "Atualizar os dois ultimos posts do Medium"
           committer_email: "actions@github.com"
           committer_username: "GitHub Actions Bot"
-          custom_tag: "MEDIUM-POST"
+          custom_tags: "MEDIUM-POST"
 
