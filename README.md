@@ -98,6 +98,9 @@
     <img src="https://raw.githubusercontent.com/cabraldasilvac/cabraldasilvac/output/snake.svg" alt="Snake animation" />
 </div>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ###
 
 <div align="left">
