@@ -1,0 +1,27 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' 
+  workflow_dispatch:
+permissions:
+  contents: write # To write the generated contents to the readme
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1.2
+        with:
+          feed_list: "https://medium.com/feed/@wcabraldasilvac"
+          date_format: "DD MMM, YYYY"
+          max_post_count: 2 
+          readme_path: "README.md"
+          template: "- [$title]($url) - $date"
+          commit_message: "Atualizar últimos posts do Medium"
+          committer_name: "GitHub Actions Bot"
+          committer_email: "actions@github.com"
