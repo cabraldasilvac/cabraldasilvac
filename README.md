@@ -10,17 +10,15 @@
 </h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /></p><br>
 
--   ✅ Graduado em Análise e Desenvolvimento de Sistemas
--   🔥 Pós-Graduando em Desenvolvimento Full Stack na Faculdade Descomplica.<br/>
--   💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
--   👨‍💻 Saiba mais sobre a minha jornada de estudos na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
--   
-<hr />
+- ✅ Graduado em Análise e Desenvolvimento de Sistemas
+- 🔥 Pós-Graduando em Desenvolvimento Full Stack na Faculdade Descomplica.<br/>
+- 💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
+- 👨‍💻 Saiba mais sobre a minha jornada de estudos na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
+- <hr />
 
 <div style="display: inline_block">
     <div class="techstack">
         <h2>🛠 &nbsp;Tech Stack</h2>
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -36,7 +34,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-
 
 </div>
 </div>
@@ -84,11 +81,9 @@
 <hr />
 
 <div class="BlogPost">
-    <h2> Últimos Posts do Medium</h2>
+    <h2> Meus Últimos Posts do Medium</h2>
 
  <!-- BLOG-POST-LIST:START -->
-- [Git e GitHub — Conceitos e comandos Iniciais](https://medium.com/@wcabraldasilvac/git-e-github-conceitos-e-comandos-iniciais-6a9690778f2a?source=rss-4b15f2a315f5------2)
-- [Arquitetura Frontend:](https://medium.com/@wcabraldasilvac/arquitetura-frontend-uma-an%C3%A1lise-sobre-padr%C3%B5es-de-organiza%C3%A7%C3%A3o-em-projetos-web-contempor%C3%A2neos-7b7ce9730604?source=rss-4b15f2a315f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
@@ -114,5 +109,3 @@
 </div>
 
 ###
-
-
