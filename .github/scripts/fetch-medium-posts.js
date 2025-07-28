@@ -1,11 +1,16 @@
+ // .github/scripts/fetch-medium-posts.js
+
 const Parser = require('rss-parser');
 const fs = require('fs');
 
+// Cria uma instância do parser de RSS
 const parser = new Parser();
 
 (async () => {
+
   try {
     const feed = await parser.parseURL('https://medium.com/feed/@wcabraldasilvac');
+
     const recentPosts = feed.items.slice(0, 5);
 
     let markdown = '';
@@ -24,6 +29,7 @@ const parser = new Parser();
     fs.writeFileSync(readmePath, updatedReadme);
 
     console.log('README atualizado com sucesso com as últimas postagens do blog.');
+
   } catch (error) {
     console.error('Erro ao buscar ou processar as postagens do blog:', error);
   }
