@@ -1,35 +1,42 @@
- // .github/scripts/fetch-medium-posts.js
-
-const Parser = require('rss-parser');
-const fs = require('fs');
-
-// Cria uma instância do parser de RSS
-const parser = new Parser();
+const Parser = require("rss-parser");
+const fs = require("fs");
 
 (async () => {
+  // --- CONFIGURAÇÃO ---
+  const MEDIUM_USERNAME = "wcabraldasilvac";
+  const BLOG_POST_LIMIT = 5;
+  const README_FILE_PATH = "./README.md";
+  // --------------------
 
   try {
-    const feed = await parser.parseURL('https://medium.com/feed/@wcabraldasilvac');
-
-    const recentPosts = feed.items.slice(0, 5);
-
-    let markdown = '';
-    recentPosts.forEach(item => {
-      markdown += `- [${item.title}](${item.link})\n`;
-    });
-
-    const readmePath = './README.md';
-    const readmeContent = fs.readFileSync(readmePath, 'utf-8');
-
-    const updatedReadme = readmeContent.replace(
-      /<!-- BLOG-POST-LIST:START -->[\s\S]*?<!-- BLOG-POST-LIST:END -->/,
-      `<!-- BLOG-POST-LIST:START -->\n${markdown}<!-- BLOG-POST-LIST:END -->`
+    console.log(
+      `Buscando feed RSS de: https://medium.com/feed/@${MEDIUM_USERNAME}`,
     );
 
-    fs.writeFileSync(readmePath, updatedReadme);
+    const parser = new Parser();
+    const feed = await parser.parseURL(
+      `https://medium.com/feed/@${MEDIUM_USERNAME}`,
+    );
 
-    console.log('README atualizado com sucesso com as últimas postagens do blog.');
+    let markdownList = feed.items
+      .slice(0, BLOG_POST_LIMIT)
+      .map((item) => `- [${item.title}](${item.link})`)
+      .join("\n");
 
+    console.log("Posts encontrados e formatados:");
+    console.log(markdownList);
+
+    const readmeContent = fs.readFileSync(README_FILE_PATH, "utf-8");
+
+    const newReadmeContent = readmeContent.replace(
+      /<!-- BLOG-POST-LIST:START -->[\s\S]*?<!-- BLOG-POST-LIST:END -->/,
+      `<!-- BLOG-POST-LIST:START -->\n${markdownList}\n<!-- BLOG-POST-LIST:END -->`,
+    );
+
+    fs.writeFileSync(README_FILE_PATH, newReadmeContent);
+    console.log("Arquivo README.md atualizado com sucesso!");
   } catch (error) {
-    console.error('Erro ao buscar ou processar as postagens do blog:', error);
+    console.error("Ocorreu um erro durante a execução do script:", error);
+    process.exit(1);
   }
+})();
