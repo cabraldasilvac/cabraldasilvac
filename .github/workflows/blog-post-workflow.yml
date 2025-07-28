@@ -18,7 +18,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@wcabraldasilvac"
-          date_format: "DD MMM, YYYY"
           max_post_count: 2 
           readme_path: "README.md"
           template: "- [$title]($url) - " 
@@ -26,5 +25,4 @@ jobs:
           commit_message: "Atualizar os dois ultimos posts do Medium"
           committer_email: "actions@github.com"
           committer_username: "GitHub Actions Bot"
-          custom_tags: "MEDIUM-POST"
 
