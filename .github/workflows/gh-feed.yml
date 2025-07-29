@@ -1,0 +1,31 @@
+name: Atualizar posts do blog no README
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Atualiza lista de posts
+        uses: cabraldasilvac/gh-feed@v1.0.0
+        with:
+          feed-url: https://medium.com/feed/@wcabraldasilvac
+          post-limit: 5
+          readme-path: ./README.md
+
+      - name: Commit e push se houver mudanças
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Atualiza lista de posts do blog"
+            git push
+          )
