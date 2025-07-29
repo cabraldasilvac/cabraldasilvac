@@ -22,7 +22,8 @@ jobs:
         run: npm install
 
       - name: Fetch latest blog posts
-        run: node .github/scripts/fetch-medium-posts.js
+        run: cabraldasilvac/gh-feed@v1.0.0
+        #run: node .github/scripts/fetch-medium-posts.js
 
       - name: Commit and push if changed
         run: |
