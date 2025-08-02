@@ -1,6 +1,9 @@
 name: Atualizar posts do blog no README
 
 on:
+  schedule:
+    - cron: '0 15 * * 2,4,6'
+    
   workflow_dispatch:
 
 permissions:
