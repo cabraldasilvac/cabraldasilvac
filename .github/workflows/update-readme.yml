@@ -3,9 +3,12 @@ name: Update README with Latest Medium Posts
 on:
   schedule:
     #- cron: '0 14 * * 1,3,5,6'
-    - cron: "30 16 * * 1,3,5,6"
+    - cron: '0 18 * * 6'
 
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -29,5 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualiza a lista de posts do blog" && git push)
+          CURRENT_DATETIME=$(date +"%Y-%m-%d %H:%M") 
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualiza a lista de posts do blog - [${CURRENT_DATETIME}]" && git push)
