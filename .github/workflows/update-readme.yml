@@ -23,6 +23,8 @@ jobs:
 
       - name: Fetch latest blog posts
         uses: cabraldasilvac/gh-feed@v1.0.0
+        with:
+          feed-url: 'https://medium.com/feed/@cabraldasilvac' 
         #run: node .github/scripts/fetch-medium-posts.js
 
       - name: Commit and push if changed
