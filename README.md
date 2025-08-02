@@ -86,6 +86,7 @@
  <!-- BLOG-POST-LIST:START -->
 - [Arquitetura front-end](https://medium.com/@wcabraldasilvac/arquitetura-front-end-ad77306b2f5f?source=rss-4b15f2a315f5------2)
 - [Git e GitHub — Conceitos e comandos Iniciais](https://medium.com/@wcabraldasilvac/git-e-github-conceitos-e-comandos-iniciais-6a9690778f2a?source=rss-4b15f2a315f5------2)
+- [Arquitetura Frontend:](https://medium.com/@wcabraldasilvac/arquitetura-frontend-uma-an%C3%A1lise-sobre-padr%C3%B5es-de-organiza%C3%A7%C3%A3o-em-projetos-web-contempor%C3%A2neos-7b7ce9730604?source=rss-4b15f2a315f5------2)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
