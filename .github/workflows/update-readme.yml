@@ -2,7 +2,7 @@ name: Update README with Latest Medium Posts
 
 on:
   schedule:
-    - cron: '0 11 * * 1,3,5'
+    - cron: '0 14 * * 1,3,5,6'
     
   workflow_dispatch:
 
@@ -22,10 +22,7 @@ jobs:
         run: npm install
 
       - name: Fetch latest blog posts
-        uses: cabraldasilvac/gh-feed@v1.0.0
-        with:
-          feed-url: 'https://medium.com/feed/@wcabraldasilvac' 
-        #run: node .github/scripts/fetch-medium-posts.js
+        run: node .github/scripts/fetch-medium-posts.js
 
       - name: Commit and push if changed
         run: |
