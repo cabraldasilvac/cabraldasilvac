@@ -1,10 +1,11 @@
 ![GitHub_image](GitHub_image.png)
+<!--
 <img
     align="right"
     height="500em" 
     src="https://raw.githubusercontent.com/gist/cabraldasilvac/a075744cf63286024ed6aa359c77fbc4/raw/fc63027629d65aeb72b4351c60e18e4fbb550e74/gitHub-card.svg"
 />
-
+-->
 <h1 align="left"> 
     Olá, Eu sou o Wanderley Cabral
 </h1>
