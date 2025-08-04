@@ -1,7 +1,7 @@
 name: Update README with Latest Medium Posts
 on:
   schedule: 
-    - cron: '0 * * * *' 
+    - cron: '0 12 * * *' 
   workflow_dispatch:
 permissions:
   contents: write
@@ -30,5 +30,5 @@ jobs:
           git config --local user.name "GitHub Action"
           CURRENT_DATETIME=$(date +"%Y-%m-%d %H:%M") 
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "[${CURRENT_DATETIME}] - Atualiza a lista de posts do blog " && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualiza a lista de posts do blog " && git push)
           
