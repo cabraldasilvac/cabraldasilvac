@@ -2,7 +2,7 @@ name: Update README with Latest Medium Posts
 
 on:
   schedule:
-    - cron: '0 13 * * *'
+     - cron: '0 11 * * 1-5' # Roda às 10:00 UTC, de segunda a sexta
     
   workflow_dispatch:
   
