@@ -2,10 +2,10 @@ name: Update README with Latest Medium Posts
 
 on:
   schedule:
-    - cron: "0 18 * * *"
-
+    - cron: '0 13 * * *'
+    
   workflow_dispatch:
-
+  
 permissions:
   contents: write
 
