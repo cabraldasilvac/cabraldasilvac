@@ -2,7 +2,7 @@ name: Atualizar posts do blog no README
 
 on:
   schedule:
-    - cron: '0 15 * * 2,4,6'
+    - cron: '0 11 * * 2,4,6'
     
   workflow_dispatch:
 
@@ -27,8 +27,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          CURRENT_DATETIME=$(date +"%Y-%m-%d %H:%M")
           git add README.md
           git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Atualiza lista de posts do blog"
+            git commit -m "[${CURRENT_DATETIME}] - Atualiza lista de posts do blog"
             git push
           )
