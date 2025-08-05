@@ -13,9 +13,10 @@
 
 - ✅ Graduado em Análise e Desenvolvimento de Sistemas
 - 🔥 Pós-Graduando em Desenvolvimento Full Stack na Faculdade Descomplica.<br/>
-- 💬 Pergunte-me sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java**
+- 📚 Estudando sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java, IA, DevOPs**
 - 👨‍💻 Saiba mais sobre a minha jornada de estudos na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
-- <hr />
+-
+  <hr />
 
 <div style="display: inline_block">
     <div class="techstack">
@@ -62,7 +63,7 @@
 
 <hr />
 <div class="projects" >
-    <h2 align="left" > Conheça alguns dos projetos que desenvolvi para fixar aprendizado!</h2>
+    <h2 align="left" >🔎 Conheça alguns dos projetos que desenvolvi para fixar aprendizado!</h2>
 
    <img align="left" src="project_image.png" alt="drawing" style="width:240px;"/>
    <br>
@@ -82,13 +83,13 @@
 <hr />
 
 <div class="BlogPost">
-    <h2> Meus Últimos Posts do Medium</h2>
-
+    <h2> 📒 Posts do Blog </h2>
+ 
  <!-- BLOG-POST-LIST:START -->
 - [🎨 A Arte e Ciência da Arquitetura Front-end](https://dev.to/wanderleycabral-dev/a-arte-e-ciencia-da-arquitetura-front-end-419p)
 <!-- BLOG-POST-LIST:END -->
-
 </div>
+
 <hr />
 
 <div class="analytics">
@@ -96,16 +97,18 @@
     <h2>⚙️ &nbsp;GitHub Stats</h2>
         <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cabraldasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
         <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cabraldasilvac&layout=compact&langs_count=5&theme=tokyonight" />
+    </div>
 </div>
+    
 <hr />
-</div>
-
+    
 ###
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/cabraldasilvac/cabraldasilvac/output/snake.svg" alt="Snake animation" />
+    <h2> 🗃️ Contributions </h2>
+        <img src="https://raw.githubusercontent.com/cabraldasilvac/cabraldasilvac/output/snake.svg" alt="Snake animation" />
 </div>
-
+</br>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cabraldasilvac&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
