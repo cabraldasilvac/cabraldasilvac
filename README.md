@@ -11,9 +11,9 @@
 </h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cabraldasilvac&color=yellow" alt="Profile views" /></p><br>
 
-- ✅ Graduado em Análise e Desenvolvimento de Sistemas
-- 🔥 Pós-Graduando em Desenvolvimento Full Stack na Faculdade Descomplica.<br/>
-- 📚 Estudando sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java, IA, DevOPs**
+- ✅ Graduado em Análise e Desenvolvimento de Sistemas - Centro Universitário União das Américas Descomplica. <br/>
+- 🔥 Pós Graduado em Desenvolvimento Full Stack no Centro Universitário União das Américas Descomplica.<br/>
+- 📚 Estudando sobre. **JavaScript, HTML, CSS, SQL, Node.JS, Python, Java, IA, DevOPs** <br/>
 - 👨‍💻 Saiba mais sobre a minha jornada de estudos na Faculdade. [Clique aqui!](https://website-red-eight.vercel.app/)
 -
   <hr />
